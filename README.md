@@ -42,21 +42,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.com/archives/subconverter.html
 </details>
 
-## 本预配置文件所引用到的仓库说明
 
-<details>
-<summary>展开查看</summary>
-
-0. 在此毒奶对大家的付出表示感谢
-1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
-2. [NobyDa-AD](https://github.com/NobyDa/ND-AD) 野比去广告分流；（10w+）
-2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
-3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（更新中），包含 `YouTube APP`去广告/`Tiktok` 解锁的重写，请自行查看；
-3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
-4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
-5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
-
-</details>
 
 ## 及时收讯与反馈交流（遇到问题如何解决）
 1. ⚠️ 关于本预配置文件在使用过程中如有问题请务必优先参考本文档 具体操作 步骤部分以及 尾部的FAQ部分 进行解决，更多问题或建议请加入我们的电报群组；（FAQ存在的已知问题请勿重复提问）
