@@ -9,7 +9,7 @@
 
 ### 懒人配置下载链接  
 
-    
+    https://raw.githubusercontent.com/dishao123/QuanX/main/Profiles/QuantumultX.conf
 
 ## 更新历史 
 
