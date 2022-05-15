@@ -3,6 +3,61 @@
 ![主页介绍][主页]
 ***
 
+# 介绍
+
+## 更新历史 
+
+**12.27.2020 更新说明**
+
+<details>
+<summary>展开查看</summary>
+
+Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.com/archives/11773.html)
+</details>
+
+**11.13.2020 更新说明**
+
+<details>
+<summary>展开查看</summary>
+更新了分流规则至神机规则最新库；
+</details>
+
+**10.25.2020 更新说明**
+
+<details>
+<summary>展开查看</summary>
+
+1. 更新 预配置文件中分流规则至 **神机规则（更新中）**；
+2. 更新 **本预配置文件所引用到的仓库**；
+3. 新增毒奶去广告 [Rewrite] 跟 [filter]；参阅 https://t.me/limboprossr/1952 配置；可去除[奈菲影视](https://www.nfmovies.com/) /[低端影视](https://ddrk.me/)/[Jable.tv](https://jable.tv/)/[netflav](https://netflav.com)/[片库网](https://m.pianku.me/)/[嘀哩哩网站](https://www.dililitv.com/) 上的广告（内页广告以及片头广告）。
+</details>
+
+
+## 毒奶预配置文件说明
+<details>
+<summary>展开查看</summary>
+0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
+1. 包括但不限于[分流]/[重写]；
+2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
+3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.com/archives/subconverter.html
+</details>
+
+## 本预配置文件所引用到的仓库说明
+
+<details>
+<summary>展开查看</summary>
+
+0. 在此毒奶对大家的付出表示感谢
+1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
+2. [NobyDa-AD](https://github.com/NobyDa/ND-AD) 野比去广告分流；（10w+）
+2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
+3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（更新中），包含 `YouTube APP`去广告/`Tiktok` 解锁的重写，请自行查看；
+3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
+4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
+5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
+
+</details>
+
 ## 及时收讯与反馈交流（遇到问题如何解决）
 1. ⚠️ 关于本预配置文件在使用过程中如有问题请务必优先参考本文档 具体操作 步骤部分以及 尾部的FAQ部分 进行解决，更多问题或建议请加入我们的电报群组；（FAQ存在的已知问题请勿重复提问）
 2. 文末 FAQ / 附注部分将会为大家提供一些Quantumult X 进阶使用方法教程；
