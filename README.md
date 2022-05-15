@@ -24,10 +24,10 @@
 
 <details>
 <summary>展开查看</summary>
-[+]新增“其他国家”策略组
-[+]更改“优选”策略组为 > 优选线路
-[+]新增“fallback_udp_policy=direct”
-[+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”
+[+]新增“其他国家”策略组  
+[+]更改“优选”策略组为 > 优选线路  
+[+]新增“fallback_udp_policy=direct”  
+[+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”  
 </details>
 
 
