@@ -13,40 +13,27 @@
 
 ## 更新历史 
 
-**12.27.2020 更新说明**
+**2022-05-15 更新说明**
 
 <details>
 <summary>展开查看</summary>
-
-Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.com/archives/11773.html)
+[+]新增dns“address=/raw.githubusercontent.com/185.199.108.133”
 </details>
 
-**11.13.2020 更新说明**
+**2022-05-12 更新说明**
 
 <details>
 <summary>展开查看</summary>
-更新了分流规则至神机规则最新库；
-</details>
-
-**10.25.2020 更新说明**
-
-<details>
-<summary>展开查看</summary>
-
-1. 更新 预配置文件中分流规则至 **神机规则（更新中）**；
-2. 更新 **本预配置文件所引用到的仓库**；
-3. 新增毒奶去广告 [Rewrite] 跟 [filter]；参阅 https://t.me/limboprossr/1952 配置；可去除[奈菲影视](https://www.nfmovies.com/) /[低端影视](https://ddrk.me/)/[Jable.tv](https://jable.tv/)/[netflav](https://netflav.com)/[片库网](https://m.pianku.me/)/[嘀哩哩网站](https://www.dililitv.com/) 上的广告（内页广告以及片头广告）。
+[+]新增“其他国家”策略组
+[+]更改“优选”策略组为 > 优选线路
+[+]新增“fallback_udp_policy=direct”
+[+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”
 </details>
 
 
-## 毒奶预配置文件说明
-<details>
-<summary>展开查看</summary>
-0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
-1. 包括但不限于[分流]/[重写]；
-2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
-3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.com/archives/subconverter.html
-</details>
+
+
+
 
 
 
