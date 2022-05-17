@@ -1,4 +1,4 @@
-# README
+# 帝少QuanX懒人配置
 
 ## 本配置主页展示
 ***
@@ -23,14 +23,11 @@
 **2022-05-12 更新说明**
 
 <details>
-<summary>展开查看</summary>
 [+]新增“其他国家”策略组  
-
 [+]更改“优选”策略组为 > 优选线路  
-
 [+]新增“fallback_udp_policy=direct”  
-
 [+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”  
+<summary>展开查看</summary>
 </details>
 
 
