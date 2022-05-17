@@ -31,7 +31,7 @@
 <details>
 <summary>展开查看</summary>
 
-[+]新增dns“address=/raw.githubusercontent.com/185.199.108.133”
+[+]新增DNS“address=/raw.githubusercontent.com/185.199.108.133”
 
 [+]优化配置重新排版
 
