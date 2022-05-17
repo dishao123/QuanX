@@ -1,4 +1,4 @@
-# 帝少QuanX懒人配置
+# 帝少QX懒人配置
 
 ## 本配置主页展示
 ***
@@ -13,6 +13,15 @@
 
 ## 更新历史 
 
+**2022-05-17 更新说明**
+<details>
+<summary>展开查看</summary>
+[+]新增“广告拦截”策略组，默认为“REJECT”策略组  
+[+]新增DNS，屏蔽系统DNS，允许访问IPV6  
+[+]更改“GitHub”分流策略组为 > “PORXY”策略组  
+[+]新增“Speedtest”分流，指定为 > “手动选择”策略组
+</details>
+
 **2022-05-15 更新说明**
 
 <details>
@@ -23,11 +32,11 @@
 **2022-05-12 更新说明**
 
 <details>
+<summary>展开查看</summary>
 [+]新增“其他国家”策略组  
 [+]更改“优选”策略组为 > 优选线路  
 [+]新增“fallback_udp_policy=direct”  
 [+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”  
-<summary>展开查看</summary>
 </details>
 
 
