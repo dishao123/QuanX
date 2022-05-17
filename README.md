@@ -30,8 +30,14 @@
 
 <details>
 <summary>展开查看</summary>
+
 [+]新增dns“address=/raw.githubusercontent.com/185.199.108.133”
-</details>
+
+[+]优化配置重新排版
+
+[+]屏蔽部分DNS，需要的请到“DNS”板块，去掉“#”即可启用
+
+[+]新增部分注释</details>
 
 **2022-05-12 更新说明**
 
