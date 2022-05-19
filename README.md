@@ -1,5 +1,5 @@
 # 帝少QX懒人配置
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishao123&theme=default&show_icons=true)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ## 本配置主页展示
