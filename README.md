@@ -3,7 +3,7 @@
 [![Fork](https://img.shields.io/github/forks/dishao123/QuanX)](https://github.com/dishao123/QuanX/network/members)
 [![Commit](https://img.shields.io/github/commit-activity/m/dishao123/QuanX?label=Commits)](https://github.com/dishao123/QuanX/commits/master)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/dishaobot)
-[![Issues](https://img.shields.io/github/issues-raw/dishao123/QuanX)](https://github.com/dishao123/QuanX/issues)
+[![Issues](https://img.shields.io/github/issues/dishao123/QuanX)](https://github.com/dishao123/QuanX/issues)
 [![](https://img.shields.io/github/followers/dishao123?label=follow&style=social)](https://github.com/dishao123)
 
 -----------------------------------------------------------------------------------------------------------------------------------
