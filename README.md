@@ -11,6 +11,8 @@
 
     https://raw.githubusercontent.com/dishao123/QuanX/main/Profiles/QuantumultX.conf
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 更新历史 
 
 **2022-05-17 更新说明**
@@ -53,12 +55,7 @@
 [+]新增mitm“*.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com”  
 </details>
 
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 及时收讯与反馈交流（遇到问题如何解决）
 1. ⚠️ 关于本预配置文件在使用过程中如有问题请务必优先参考本文档 具体操作 步骤部分以及 尾部的FAQ部分 进行解决，更多问题或建议请加入我们的电报群组；（FAQ存在的已知问题请勿重复提问）
@@ -67,8 +64,7 @@
 4. [Facebook 脸书](https://www.facebook.com/profile.php?id=100080808605363)；
 5. [Twitter 推特](https://twitter.com/dishaowork)；
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 特别声明
 
@@ -81,16 +77,15 @@
 7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
 8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 特别感谢
 
 以下排名不分先后，如有遗漏可联系[*@帝少*](https://t.me/dishaobot)
 
-[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*张军*](https://github.com/28413761) 
+[*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@张军*](https://github.com/28413761) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 [主页]:/img/主页介绍.png "主页介绍"
 [网络]:/img/网络活动介绍.png "活动介绍"
