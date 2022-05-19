@@ -5,16 +5,20 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/dishaobot)
 [![Issues](https://img.shields.io/github/issues/dishao123/QuanX)](https://github.com/dishao123/QuanX/issues)
 [![](https://img.shields.io/github/followers/dishao123?label=follow&style=social)](https://github.com/dishao123)
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 # 帝少QX懒人配置
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishao123&theme=default&show_icons=true)
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ## 本配置主页展示
 ***
 ![主页介绍][主页]
 ***
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 介绍
 
