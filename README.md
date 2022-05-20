@@ -1,4 +1,4 @@
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=dishao123.QuanX)]
+[!](https://visitor-badge.glitch.me/badge?page_id=dishao123.QuanX)]
 [![Stars](https://img.shields.io/github/stars/dishao123/QuanX)](https://github.com/dishao123/QuanX/stargazers)
 [![Fork](https://img.shields.io/github/forks/dishao123/QuanX)](https://github.com/dishao123/QuanX/network/members)
 [![Issues](https://img.shields.io/github/issues/dishao123/QuanX)](https://github.com/dishao123/QuanX/issues)
