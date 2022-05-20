@@ -31,6 +31,24 @@
 
 ## 更新历史 
 
+**2022-05-20**
+<details>
+<summary>展开查看</summary>
+
+[+]新增“国内线路”策略组
+
+[+]新增“jsdelivr”本地分流为 > “PORXY”策略组
+</details>
+
+**2022-05-19**
+<details>
+<summary>展开查看</summary>
+
+[+]新增“可用节点”策略组
+
+[+]新增“网易云音乐”本地节点
+</details>
+
 **2022-05-17 更新说明**
 <details>
 <summary>展开查看</summary>
