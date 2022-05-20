@@ -21,6 +21,8 @@
 
 # 介绍
 
+## 如需获取新版本更新通知，请订阅TG频道[*更新频道*](https://t.me/+u-WwdiceW3Y5YjUx)
+
 ### 懒人配置下载链接  
 
     https://raw.githubusercontent.com/dishao123/QuanX/main/Profiles/QuantumultX.conf
