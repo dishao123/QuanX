@@ -1,0 +1,6 @@
+# 屏蔽IOS系统更新
+host, ns.itunes.apple.com,rejct
+host, appldnld.apple.com,reject
+host, mesu.apple.com,reject
+host, xp.apple.com,reject
+host, gdmf.apple.com,reject
