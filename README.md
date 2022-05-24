@@ -115,7 +115,7 @@
 2. 文末 FAQ / 附注部分将会为大家提供一些Quantumult X 进阶使用方法教程；
 3. [Telegram 电报](https://t.me/dishaobot)；
 4. [Facebook 脸书](https://www.facebook.com/profile.php?id=100080808605363)；
-5. [Twitter 推特](https://twitter.com/dishaowork)；
+5. [Twitter 推特](https://twitter.com/dishao123)；
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
