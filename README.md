@@ -50,6 +50,20 @@
 
 ## 更新历史 
 
+**2023-06-30 更新说明**
+<details>
+<summary>展开查看</summary>
+
+[+]新增“苹果消息推送服务”本地分流
+
+[+]新增“Apple”分流
+
+[+]新增“Apple”策略组
+
+[+]更换“server_check_url”响应地址为 > http://www.bing.com/
+ 
+</details>
+
 **2023-05-29 更新说明**
 <details>
 <summary>展开查看</summary>
@@ -167,7 +181,6 @@
 </details>
 
 **2022-05-15 更新说明**
-
 <details>
 <summary>展开查看</summary>
 
@@ -182,7 +195,6 @@
 </details>
 
 **2022-05-12 更新说明**
-
 <details>
 <summary>展开查看</summary>
 
