@@ -270,4 +270,4 @@
 [er2]:/img/错误2.png "出错2"
 -->
 
-# 本仓库已永久迁移至➡[新仓库](https://github.com/dishao123/rules_script)
+# 本仓库已永久迁移至➡[点我进入新仓库](https://github.com/dishao123/rules_script)
